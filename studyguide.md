@@ -1,5 +1,41 @@
 ### Study Guide with Potential Exam Questions
 
+
+
+| Symbol       | Name                             | Meaning / Description                                             |
+|--------------|----------------------------------|------------------------------------------------------------------|
+| \(P(A)\)     | Probability                      | The probability of event \(A\).                                  |
+| \(P(A | B)\)| Conditional Probability          | The probability of event \(A\) given that event \(B\) has occurred. |
+| \(P(A \cap B)\) | Joint Probability            | The probability that both events \(A\) and \(B\) occur.        |
+| \(P(A \cup B)\) | Union Probability             | The probability that at least one of the events \(A\) or \(B\) occurs. |
+| \(\mathbb{E}[X]\) | Expected Value                | The average or expected value of a random variable \(X\).      |
+| \(\text{Var}(X)\) | Variance                     | The measure of the spread of a random variable \(X\) around its mean. |
+| \(\sigma^2\) | Variance (Greek letter)         | Represents variance, often denoted as \(\sigma^2\).            |
+| \(\sigma\)   | Standard Deviation               | The square root of variance, representing spread in the data.   |
+| \(\mu\)      | Mean (Greek letter)              | The average or expected value of a random variable.             |
+| \(\theta\)   | Parameter                        | Represents a parameter in a statistical model (e.g., mean, variance). |
+| \(\alpha\)   | Significance Level              | Represents the threshold for significance in hypothesis testing.  |
+| \(\beta\)    | Type II Error Rate              | The probability of incorrectly failing to reject a false null hypothesis. |
+| \(\gamma\)   | Hyperparameter                   | Represents a hyperparameter in machine learning models.          |
+| \(X\)        | Random Variable                  | A variable whose value is subject to chance.                    |
+| \(Y\)        | Target Variable                  | The variable we are trying to predict or explain.               |
+| \(f(X)\)     | Function                         | Represents a function of the random variable \(X\).             |
+| \(\mathcal{L}\) | Loss Function                 | A function that quantifies the difference between predicted and true values. |
+| \(\nabla\)   | Gradient                         | Represents the vector of partial derivatives of a function.     |
+| \(\lambda\)  | Regularization Parameter         | Used in regularization techniques to prevent overfitting in models. |
+| \(\mathcal{N}(\mu, \sigma^2)\) | Normal Distribution   | Denotes a normal distribution with mean \(\mu\) and variance \(\sigma^2\). |
+| \(C\)        | Class or Cluster                 | Represents a category or cluster in classification tasks.       |
+| \(\mathbb{P}\) | Probability Function            | Denotes a probability measure.                                   |
+| \(\mathcal{D}\) | Dataset                       | Represents a collection of data points or samples.              |
+| \(\text{argmax}_x f(x)\) | Argument of Maximum      | The value of \(x\) that maximizes the function \(f(x)\).      |
+| \(\text{argmin}_x f(x)\) | Argument of Minimum      | The value of \(x\) that minimizes the function \(f(x)\).      |
+| \(|A|\)      | Cardinality                      | The number of elements in set \(A\).                            |
+| \(X_i\)      | Feature or Sample                | Represents the \(i^{th}\) feature or sample in a dataset.      |
+| \(\text{cov}(X, Y)\) | Covariance                  | A measure of the joint variability of two random variables \(X\) and \(Y\). |
+| \(R^n\)      | n-dimensional Real Space         | Represents an n-dimensional vector space.                       |
+| \(\mathcal{X}\) | Input Space                   | The space of all possible inputs.                               |
+| \(\mathcal{Y}\) | Output Space                  | The space of all possible outputs or labels.                   |
+
 ---
 
 #### 1. **Cyber Analytics**
