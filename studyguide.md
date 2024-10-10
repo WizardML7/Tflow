@@ -1,4 +1,4 @@
-### Section-by-Section Detailed Study Guide with Potential Exam Questions
+### Study Guide with Potential Exam Questions
 
 ---
 
@@ -404,7 +404,6 @@ Norms are often used in **regularization techniques** like L1 or L2 regularizati
 
 ---
 
-Certainly! Let's go step by step through an example of matrix multiplication, which is key in machine learning and linear algebra.
 
 ### Example: Multiply two matrices A and B
 
@@ -510,7 +509,7 @@ A \times B = \begin{pmatrix}
 
 ---
 
-Absolutely! Let’s walk through a simplified example of **backpropagation** for a neural network with example numbers. 
+**backpropagation**
 
 We'll use a simple feed-forward neural network with one hidden layer and one output node. This example uses:
 
@@ -683,7 +682,7 @@ In this example, we walked through the forward pass to compute the network’s o
 
 ---
 
-Certainly! **Overfitting** and **underfitting** are two common problems in machine learning that relate to how well a model generalizes to unseen data.
+**Overfitting** and **underfitting** are two common problems in machine learning that relate to how well a model generalizes to unseen data.
 
 ### 1. Overfitting
 
